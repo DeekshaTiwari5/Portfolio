@@ -1,0 +1,26 @@
+[
+  {
+    "title": "BookStore",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/DeekshaTiwari5/BookCourse"
+  },
+  {
+    "title": "ChatApp",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/DeekshaTiwari5/SNAPPYAPP"
+  },
+  {
+    "title": "MealApp",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["JavaScript", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/DeekshaTiwari5/MEAL-APP"
+  }
+]
